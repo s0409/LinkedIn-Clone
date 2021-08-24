@@ -2,7 +2,7 @@
 
 # Deployed Link
 
-## https://linkedin-clone-rjs-43bd0.web.app
+## https://linkedin-clone-43bd0.web.app
 
 
 **_Built using React JS, Redux, Firebase & Material UI** within a week. My first project after learning React JS referencing a tutorial on YouTube by _'Sunny Sangha'_.
